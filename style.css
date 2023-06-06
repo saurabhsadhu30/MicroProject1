@@ -1,0 +1,91 @@
+body{
+    margin:0; font-family:Inter
+}
+.sport{
+    background-color:#FFCD9E;
+    display:flex
+}
+.left-section{
+    margin:40px;
+    margin-left:120px
+}
+.cricket{
+    font-style:normal;
+    font-weight:700;
+    font-size:36px;
+    color:#282828;
+    width: 75%
+}
+.football{
+    font-style:medium;
+    font-weight:500;
+    font-size:18px;
+    color:#484848;
+    width:70%;
+    line-height:160%
+}
+.chess{
+    font-style:normal;
+    font-weight:800;
+    font-size:20px;
+    color:#282828
+    line-height 32px; 
+}
+input{
+    height:50px;
+    background:#FFFFFF;
+    border-radius:8px;
+    padding-left:30px;
+    width: 240px;
+    margin-top:20px;
+    margin-right:12px;
+    border:3px solid #000000
+}
+button{
+    background:#282828;
+    color:#fff;
+    border-radius:8px;
+    font-weight:700;
+    font-size:15px;
+    line-height:30px;
+    width: 200px;
+    height:55px;
+}
+.ludo{
+    font-style:normal;
+    height: 61px;
+    line-height: 25.6px;
+    font-weight:500;
+    font-size:16px;
+    color:#fff;
+    margin-top:12px;
+    margin-left:20px
+}
+.right-section img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 363.5px;
+    width: 412.5px;
+    padding:60px;
+    margin: 20px; 
+}
+.footer-list1{
+    display:flex;
+    background:#282828;
+    color:#fff;
+    justify-content:space-between;
+    padding-top:40px;
+    padding-left:120px;
+    padding-right:120px;
+    line-height: 23px;
+}
+.footer ul{
+    margin-bottom:8px;
+}
+.footer-list2{
+    text-align:right
+}
+.logo{
+    height:30px;
+}
